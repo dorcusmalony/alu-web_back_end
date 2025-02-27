@@ -1,7 +1,7 @@
 # i18n
 
 ## Resources
-### Read or watch:
+### Read or watch
 
 - [Flask-Babel](https://intranet.aluswe.com/rltoken/-a--VF9eFqe4WmUDbBRRLw)
 - [Flask i18n tutorial](https://intranet.aluswe.com/rltoken/5ZXAPeW50RkAGQAEjkToug)
