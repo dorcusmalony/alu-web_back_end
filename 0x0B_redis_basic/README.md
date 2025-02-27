@@ -1,7 +1,7 @@
-# Redis basic
+i# Redis basic
 
 ## Resources
-### Read or watch:
+### Read or watch
 
 - [Redis commands](https://intranet.aluswe.com/rltoken/KsMBE60UQRWErdK1mQ3ozg)
 - [Redis python client](https://intranet.aluswe.com/rltoken/yqIvla14uyQ2pBRk2i-tBQ)
