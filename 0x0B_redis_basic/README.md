@@ -1,4 +1,4 @@
-i# Redis basic
+# Redis basic
 
 ## Resources
 ### Read or watch
