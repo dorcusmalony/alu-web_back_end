@@ -1,7 +1,7 @@
 # MySQL advanced
 
 ## Resources
-### Read or watch:
+### Read or watch
 
 - [MySQL cheatsheet](https://intranet.aluswe.com/rltoken/XCHG-pgtifYRSw8ILB6DEw)
 - [MySQL Performance: How To Leverage MySQL Database Indexing](https://intranet.aluswe.com/rltoken/VXAPISdkpKg3YD3HmVQXlw)
