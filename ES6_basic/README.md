@@ -2,7 +2,7 @@
 
 ## Resources
 
-### Read or watch:
+### Read or watch
 
 - [ECMAScript 6 - ECMAScript 2015](https://intranet.aluswe.com/rltoken/Q20cy-_XFufANSBCW0hvog)
 - [Statements and declarations](https://intranet.aluswe.com/rltoken/OHkTGVz-DLmzmrpDuWDYBw)
