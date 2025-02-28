@@ -1,7 +1,7 @@
 # ES6 Promises
 
 ## Resources
-### Read or watch:
+### Read or watch
 
 - [Promise](https://intranet.aluswe.com/rltoken/aNukpnQLStWa6kqBScmZuA)
 - [JavaScript Promise: An introduction](https://intranet.aluswe.com/rltoken/oE70cO9HPu1lOGuPFzYXXw)
