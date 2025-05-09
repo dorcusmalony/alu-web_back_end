@@ -1,6 +1,6 @@
 # unit testing in js
 # Resources
-## Read or watch:
+## Read or watch
 
 - [Mocha documentation](https://mochajs.org/)
 
