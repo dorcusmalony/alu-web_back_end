@@ -1,5 +1,5 @@
 # Node js basics
-## Read or watch:
+## Read or watch
 
 - [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
