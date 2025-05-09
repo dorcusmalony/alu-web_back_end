@@ -1,6 +1,6 @@
 # Queuing System in JS
 ## Resources
-## Read or watch:
+## Read or watch
 
 - [Redis quick start](https://redis.io/docs/latest/integrate/)
 
