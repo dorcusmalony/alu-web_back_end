@@ -2,7 +2,7 @@
 
 ## Resources
 
-### Read or watch:
+### Read or watch
 
 - [Array](https://intranet.aluswe.com/rltoken/fXeF-M30vPa-VR4qdM1hbQ)
 - [Typed Array](https://intranet.aluswe.com/rltoken/zDdBGzD4uqGLkjTLt7aT1Q)
